@@ -1,0 +1,17 @@
+{
+  "name": "electronsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "George Fourikis",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "electron-notifications": "^1.0.0",
+    "electron": "^2.0.5"
+  }
+}
