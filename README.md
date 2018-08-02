@@ -5,6 +5,8 @@ How to use
 ===
 
 ```shell
+https://github.com/GeorgeFourikis/ElectronSearch.git
+cd ElectronSearch
 npm i
 npm start
 ```
