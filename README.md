@@ -4,8 +4,8 @@ Electron Search assignment.
 How to use
 ===
 
-```shell
-https://github.com/GeorgeFourikis/ElectronSearch.git
+```bash
+git clone https://github.com/GeorgeFourikis/ElectronSearch.git
 cd ElectronSearch
 npm i
 npm start
