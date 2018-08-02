@@ -1,4 +1,4 @@
-Electron Search assignment.
+**Electron Search assignment.**
 ===
 
 How to use
